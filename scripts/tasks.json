@@ -1,0 +1,701 @@
+[{
+  "id": "c9483db4-de08-4d12-9391-5c03d3a2b90c",
+  "amount": 64,
+  "date": "11/25/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in"
+}, {
+  "id": "3ba8ecae-08de-4ad7-ae9e-f1729f2e7e25",
+  "amount": 77,
+  "date": "1/8/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem"
+}, {
+  "id": "de084093-01e6-4345-8644-4afae722f114",
+  "amount": 38,
+  "date": "7/24/2023",
+  "expense": "MISC",
+  "status": "paid",
+  "description": "mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean"
+}, {
+  "id": "cd51a78e-46fc-4298-b8b0-4d49d853ba81",
+  "amount": 43,
+  "date": "1/16/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "pending",
+  "description": "eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna"
+}, {
+  "id": "cd098c78-9c93-4908-aa79-b06ae060fafa",
+  "amount": 51,
+  "date": "5/5/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget"
+}, {
+  "id": "8898da41-4d86-4a3f-bfe6-d4882a0e3f72",
+  "amount": 69,
+  "date": "1/14/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum"
+}, {
+  "id": "7e87bfe2-6e30-4147-a4a7-b52bcf502bd1",
+  "amount": 55,
+  "date": "8/10/2023",
+  "expense": "MEDICAL",
+  "status": "paid",
+  "description": "sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non"
+}, {
+  "id": "6ac68ec6-8464-4e58-968e-64c6753e0e91",
+  "amount": 37,
+  "date": "6/24/2023",
+  "expense": "MISC",
+  "status": "paid",
+  "description": "justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis"
+}, {
+  "id": "16114fd5-a7cc-4e7d-aa19-d64fa7ce23f5",
+  "amount": 29,
+  "date": "2/5/2023",
+  "expense": "RATION",
+  "status": "paid",
+  "description": "sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede"
+}, {
+  "id": "546f743d-dd20-4f62-8f1d-55bf9edd7847",
+  "amount": 53,
+  "date": "6/3/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec"
+}, {
+  "id": "3001ec65-a357-49b6-8d26-3133d11517fc",
+  "amount": 96,
+  "date": "5/30/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris"
+}, {
+  "id": "89d45b47-5db9-4c4c-9018-33816ea11785",
+  "amount": 53,
+  "date": "1/6/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "pending",
+  "description": "placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget"
+}, {
+  "id": "41cf7a01-2b06-4d38-bf53-506e857c96ab",
+  "amount": 77,
+  "date": "5/22/2023",
+  "expense": "RATION",
+  "status": "pending",
+  "description": "sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut"
+}, {
+  "id": "739dc35f-6d32-49e1-b51b-04ce0e4d3f42",
+  "amount": 30,
+  "date": "3/20/2023",
+  "expense": "RATION",
+  "status": "paid",
+  "description": "gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet"
+}, {
+  "id": "7deef5b3-37c9-424c-9dd3-f2f7ad700bae",
+  "amount": 80,
+  "date": "5/12/2023",
+  "expense": "MAINTENANCE",
+  "status": "pending",
+  "description": "sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst"
+}, {
+  "id": "c8d5b9f7-7afd-42e5-b232-5555c17346ca",
+  "amount": 18,
+  "date": "8/20/2023",
+  "expense": "LPG_GAS",
+  "status": "pending",
+  "description": "nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat"
+}, {
+  "id": "6397051e-9c06-452c-ba80-51fd344112ab",
+  "amount": 37,
+  "date": "2/1/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna"
+}, {
+  "id": "fe5fd7e4-40b0-4c0f-bbd9-f902f71b82b3",
+  "amount": 75,
+  "date": "10/7/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "pending",
+  "description": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel"
+}, {
+  "id": "301c1f5c-6520-4adc-8e50-765aa0f44bc8",
+  "amount": 15,
+  "date": "12/6/2023",
+  "expense": "DIESEL",
+  "status": "pending",
+  "description": "id nisl venenatis lacinia aenean sit amet justo morbi ut"
+}, {
+  "id": "f4331a17-0382-4f56-8d09-1bf7776d00cc",
+  "amount": 56,
+  "date": "4/17/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus"
+}, {
+  "id": "743893bc-5243-4b91-8306-8e9da7a24f14",
+  "amount": 55,
+  "date": "5/26/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui"
+}, {
+  "id": "dab40881-bd60-4fa8-8136-7ffb3b25827f",
+  "amount": 72,
+  "date": "6/28/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare"
+}, {
+  "id": "816f4b09-af15-447b-bd96-ae04eee78cb0",
+  "amount": 49,
+  "date": "5/14/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at"
+}, {
+  "id": "bc6b31dd-bbde-4ce6-8b7c-b8aeadee4d6e",
+  "amount": 37,
+  "date": "8/3/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci"
+}, {
+  "id": "41d01743-8e9a-47dd-b264-2be3550e87c8",
+  "amount": 39,
+  "date": "7/14/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia"
+}, {
+  "id": "385d0914-ca2a-44fd-88a1-c6638f414bb2",
+  "amount": 70,
+  "date": "8/14/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "pending",
+  "description": "elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo"
+}, {
+  "id": "c1b623ca-52e3-4562-9069-fe176829f4de",
+  "amount": 75,
+  "date": "4/23/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur"
+}, {
+  "id": "51e1c9fc-0396-4d70-bf4a-2cfe540f7d57",
+  "amount": 84,
+  "date": "1/27/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "pending",
+  "description": "massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo"
+}, {
+  "id": "978b920c-b86c-4f95-9043-bfdfaa9c2d61",
+  "amount": 28,
+  "date": "3/19/2023",
+  "expense": "MAINTENANCE",
+  "status": "pending",
+  "description": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante"
+}, {
+  "id": "1531aedc-fbcb-4b14-bd03-4b04e641ee2b",
+  "amount": 49,
+  "date": "10/17/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi"
+}, {
+  "id": "202cca0e-3734-44de-ba67-62654849cb8f",
+  "amount": 94,
+  "date": "5/5/2023",
+  "expense": "MISC",
+  "status": "paid",
+  "description": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed"
+}, {
+  "id": "5a3f2fdc-a561-4c24-bc1b-d96683aa79db",
+  "amount": 14,
+  "date": "12/11/2023",
+  "expense": "MAINTENANCE",
+  "status": "pending",
+  "description": "mi sit amet lobortis sapien sapien non mi integer ac"
+}, {
+  "id": "73fedbb4-7ebb-4201-a6e6-7dc8d81ef8fc",
+  "amount": 66,
+  "date": "9/18/2023",
+  "expense": "RATION",
+  "status": "pending",
+  "description": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum"
+}, {
+  "id": "8ed482f0-7d60-4be8-a0f6-dd88512f014f",
+  "amount": 39,
+  "date": "9/10/2023",
+  "expense": "PAYROLL",
+  "status": "pending",
+  "description": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis"
+}, {
+  "id": "5d18aeb8-102a-4825-924b-a6bb46c0797c",
+  "amount": 48,
+  "date": "5/6/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec"
+}, {
+  "id": "9d5c2319-0f0d-489c-89bb-b65bb8ec7421",
+  "amount": 31,
+  "date": "9/20/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in"
+}, {
+  "id": "5479edf8-ee75-4031-862d-af38d387685a",
+  "amount": 68,
+  "date": "7/30/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper"
+}, {
+  "id": "26851bd4-0a1e-4997-a01d-a153b87a6e1f",
+  "amount": 72,
+  "date": "3/4/2023",
+  "expense": "RATION",
+  "status": "pending",
+  "description": "pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna"
+}, {
+  "id": "6cc7450c-6654-4244-8c3c-0f3a74a72d6b",
+  "amount": 60,
+  "date": "11/14/2023",
+  "expense": "MISC",
+  "status": "paid",
+  "description": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc"
+}, {
+  "id": "95f1cd67-2dcb-4542-8213-eb5c2df86137",
+  "amount": 44,
+  "date": "12/4/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "quisque arcu libero rutrum ac lobortis vel dapibus at diam"
+}, {
+  "id": "f792cb14-121f-4486-a471-9305b852db5f",
+  "amount": 34,
+  "date": "8/7/2023",
+  "expense": "MISC",
+  "status": "pending",
+  "description": "id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis"
+}, {
+  "id": "6d5184b5-4128-4861-8186-f92ea5af4510",
+  "amount": 54,
+  "date": "2/22/2023",
+  "expense": "MAINTENANCE",
+  "status": "pending",
+  "description": "mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus"
+}, {
+  "id": "6ec9cc01-aaae-4d9a-ab20-e9bce2b2fe60",
+  "amount": 100,
+  "date": "7/7/2023",
+  "expense": "RATION",
+  "status": "pending",
+  "description": "ligula in lacus curabitur at ipsum ac tellus semper interdum mauris"
+}, {
+  "id": "896ceb6e-2781-4304-97e1-f87be0ad600d",
+  "amount": 36,
+  "date": "11/1/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim"
+}, {
+  "id": "9c864f2f-c1e2-4179-932c-46529ba89ca3",
+  "amount": 69,
+  "date": "4/17/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor"
+}, {
+  "id": "6e667264-004e-4284-b5c8-11de4c3883ed",
+  "amount": 55,
+  "date": "9/15/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum"
+}, {
+  "id": "86262ae6-16a6-408d-ab72-2c79442a3ed4",
+  "amount": 49,
+  "date": "8/20/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et"
+}, {
+  "id": "50fe47c5-412e-490d-8aa3-b444e22f6b21",
+  "amount": 53,
+  "date": "10/6/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem"
+}, {
+  "id": "80914c3c-b090-428b-b69d-c0a2761a0b41",
+  "amount": 63,
+  "date": "11/1/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit"
+}, {
+  "id": "57af1f9a-a217-47f1-b66a-44d383b7eb6b",
+  "amount": 80,
+  "date": "5/16/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi"
+}, {
+  "id": "b49715af-2483-4471-86ca-71217e03fa67",
+  "amount": 47,
+  "date": "2/2/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat"
+}, {
+  "id": "d87368c5-5990-4775-ad67-3d9bceaed3b5",
+  "amount": 20,
+  "date": "10/17/2023",
+  "expense": "LPG_GAS",
+  "status": "pending",
+  "description": "semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo"
+}, {
+  "id": "25028276-92ba-4ebb-8e5d-c8f7e56109df",
+  "amount": 5,
+  "date": "1/13/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum"
+}, {
+  "id": "e819f3c9-83cc-4218-b60b-aef6145e937a",
+  "amount": 87,
+  "date": "4/27/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec"
+}, {
+  "id": "9bb83305-2b66-4701-8e99-8ca6591e4711",
+  "amount": 94,
+  "date": "1/3/2023",
+  "expense": "PAYROLL",
+  "status": "pending",
+  "description": "quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet"
+}, {
+  "id": "95810c2e-c098-4a88-8aaa-0994fb3b9566",
+  "amount": 59,
+  "date": "4/24/2023",
+  "expense": "MEDICAL",
+  "status": "paid",
+  "description": "congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum"
+}, {
+  "id": "e8481c0d-5ab6-43b7-a4f2-901994c74067",
+  "amount": 85,
+  "date": "10/29/2023",
+  "expense": "MEDICAL",
+  "status": "paid",
+  "description": "praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in"
+}, {
+  "id": "cbadf0be-660a-42af-9667-9da3976ef6d9",
+  "amount": 45,
+  "date": "10/13/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "pending",
+  "description": "in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur"
+}, {
+  "id": "4db1ca38-2679-4ef0-a9d9-c74d0f0270ce",
+  "amount": 34,
+  "date": "8/12/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "erat tortor sollicitudin mi sit amet lobortis sapien sapien non"
+}, {
+  "id": "8caa20a1-8b57-47e8-b911-2482646071b4",
+  "amount": 99,
+  "date": "3/30/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut"
+}, {
+  "id": "6d9d389e-8f6b-428f-90f4-8979f1bb95d2",
+  "amount": 5,
+  "date": "7/6/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel"
+}, {
+  "id": "2c5f3efa-1709-4ca3-b874-7fd8017fe13e",
+  "amount": 8,
+  "date": "8/21/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at"
+}, {
+  "id": "1f0c49e4-3818-4972-8a5c-0856af7e6be6",
+  "amount": 25,
+  "date": "7/27/2023",
+  "expense": "PAYROLL",
+  "status": "pending",
+  "description": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue"
+}, {
+  "id": "efd1207f-ee4c-4fa0-8834-6519a76c829d",
+  "amount": 7,
+  "date": "1/12/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce"
+}, {
+  "id": "ed630883-e2d0-4edd-ab19-7a68ff36d4fe",
+  "amount": 37,
+  "date": "5/18/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in"
+}, {
+  "id": "fe532d59-abc6-4f95-a591-48d94741ade5",
+  "amount": 14,
+  "date": "9/4/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam"
+}, {
+  "id": "00f947b9-d1f0-44d5-b21a-1aeb24e57911",
+  "amount": 54,
+  "date": "7/23/2023",
+  "expense": "LPG_GAS",
+  "status": "pending",
+  "description": "mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam"
+}, {
+  "id": "1ff04811-8803-4023-9892-121ce337888c",
+  "amount": 28,
+  "date": "2/27/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed"
+}, {
+  "id": "d5d06b11-c9f6-4027-af13-b4084de2d2c2",
+  "amount": 93,
+  "date": "11/7/2023",
+  "expense": "DIESEL",
+  "status": "pending",
+  "description": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas"
+}, {
+  "id": "fb363fb6-3aaf-4949-96de-97ac1ef7d999",
+  "amount": 42,
+  "date": "11/27/2023",
+  "expense": "RATION",
+  "status": "paid",
+  "description": "nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede"
+}, {
+  "id": "42ad6260-b754-4e97-b396-745ece66c4b6",
+  "amount": 58,
+  "date": "9/13/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis"
+}, {
+  "id": "02d7d43b-b95d-4bb7-ad2f-debacbac2b8a",
+  "amount": 35,
+  "date": "1/20/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel"
+}, {
+  "id": "67dda3ec-8cff-4476-85c5-59fae513575c",
+  "amount": 100,
+  "date": "1/20/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices"
+}, {
+  "id": "4b971f8f-0511-4597-92f3-7cd01f9e4b3a",
+  "amount": 95,
+  "date": "11/1/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis"
+}, {
+  "id": "b94e67a1-ff90-4dfd-8c0a-e5176b3189fd",
+  "amount": 65,
+  "date": "8/3/2023",
+  "expense": "RATION",
+  "status": "pending",
+  "description": "pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat"
+}, {
+  "id": "1eca37f6-d954-49b9-9731-c42ce29c12da",
+  "amount": 97,
+  "date": "7/16/2023",
+  "expense": "MEDICAL",
+  "status": "paid",
+  "description": "nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim"
+}, {
+  "id": "21f427c1-d755-4af1-a011-4a6d88770531",
+  "amount": 5,
+  "date": "6/21/2023",
+  "expense": "LPG_GAS",
+  "status": "paid",
+  "description": "eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis"
+}, {
+  "id": "058b9aeb-c929-41b9-b380-317f5c770045",
+  "amount": 34,
+  "date": "6/5/2023",
+  "expense": "DIESEL",
+  "status": "paid",
+  "description": "ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed"
+}, {
+  "id": "b92f715c-3892-4539-ab43-edd9dc70a35c",
+  "amount": 7,
+  "date": "1/7/2023",
+  "expense": "MISC",
+  "status": "pending",
+  "description": "feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien"
+}, {
+  "id": "e24d1c7f-1094-4e8b-b9e3-81556c5dabe4",
+  "amount": 50,
+  "date": "11/14/2023",
+  "expense": "LPG_GAS",
+  "status": "pending",
+  "description": "proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit"
+}, {
+  "id": "0032d91b-b238-4465-b2b9-4bb0a90edf22",
+  "amount": 9,
+  "date": "5/26/2023",
+  "expense": "PAYROLL",
+  "status": "pending",
+  "description": "nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue"
+}, {
+  "id": "1995f343-dfc0-4636-911e-38a51e6fd432",
+  "amount": 17,
+  "date": "4/1/2023",
+  "expense": "MEDICAL",
+  "status": "paid",
+  "description": "vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur"
+}, {
+  "id": "418500fe-0cf1-41af-928e-d8a69880ada2",
+  "amount": 64,
+  "date": "5/3/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "massa id lobortis convallis tortor risus dapibus augue vel accumsan"
+}, {
+  "id": "33ba584c-300e-4e5b-b23f-680c02809485",
+  "amount": 33,
+  "date": "4/13/2023",
+  "expense": "RATION",
+  "status": "paid",
+  "description": "dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id"
+}, {
+  "id": "4cc771b7-9ef1-4b2a-a5a7-cfeb0aca5a59",
+  "amount": 57,
+  "date": "11/10/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "pending",
+  "description": "mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec"
+}, {
+  "id": "9cc0fc7d-0baa-4e29-9994-88f030308442",
+  "amount": 11,
+  "date": "12/22/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec"
+}, {
+  "id": "dd738b86-8775-4f30-abfd-0f0b774d8127",
+  "amount": 52,
+  "date": "2/12/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "paid",
+  "description": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum"
+}, {
+  "id": "83e6f8b3-b8c7-4600-862d-d578269a3885",
+  "amount": 54,
+  "date": "8/24/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "paid",
+  "description": "pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget"
+}, {
+  "id": "710a1702-5221-485f-8ecf-c3b17cefc07c",
+  "amount": 6,
+  "date": "11/16/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes"
+}, {
+  "id": "024b3173-f81e-43fb-85f6-2e9d874560ef",
+  "amount": 28,
+  "date": "7/24/2023",
+  "expense": "MAINTENANCE",
+  "status": "pending",
+  "description": "quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede"
+}, {
+  "id": "64230efe-af0a-43be-9604-f6d96bb2d27b",
+  "amount": 5,
+  "date": "5/20/2023",
+  "expense": "DIESEL",
+  "status": "pending",
+  "description": "nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in"
+}, {
+  "id": "379d7f50-3ca4-49c5-9319-0692dd2ac38e",
+  "amount": 19,
+  "date": "1/23/2023",
+  "expense": "PAYROLL",
+  "status": "pending",
+  "description": "consequat nulla nisl nunc nisl duis bibendum felis sed interdum"
+}, {
+  "id": "c5370fa4-3728-48f4-9ca6-ab9cd61f942a",
+  "amount": 49,
+  "date": "11/12/2023",
+  "expense": "MEDICAL",
+  "status": "pending",
+  "description": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit"
+}, {
+  "id": "39ca6d2a-7c52-4744-9680-324b6e255ee1",
+  "amount": 97,
+  "date": "9/25/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis"
+}, {
+  "id": "e35c5865-4f76-429e-a5e7-a868c0327fb8",
+  "amount": 61,
+  "date": "1/12/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis"
+}, {
+  "id": "b060fc73-bb6b-404d-8f52-f1b6173cce0c",
+  "amount": 38,
+  "date": "8/2/2023",
+  "expense": "PAYROLL",
+  "status": "paid",
+  "description": "semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam"
+}, {
+  "id": "bc256a67-9ddb-4a40-af17-5fe26cecc164",
+  "amount": 78,
+  "date": "6/5/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "pending",
+  "description": "non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere"
+}, {
+  "id": "8cb8b009-9839-4172-9c18-c42e91d0cd3b",
+  "amount": 7,
+  "date": "8/12/2023",
+  "expense": "STAFF_CREDIT",
+  "status": "pending",
+  "description": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula"
+}, {
+  "id": "1bcfc838-65ae-4d8c-b8a8-a490b38b3a13",
+  "amount": 33,
+  "date": "8/10/2023",
+  "expense": "MAINTENANCE",
+  "status": "paid",
+  "description": "in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis"
+}, {
+  "id": "d0b04d22-ec3f-4642-83b3-4eca22da0f17",
+  "amount": 6,
+  "date": "1/9/2023",
+  "expense": "MANAGER_ACCOM",
+  "status": "pending",
+  "description": "lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit"
+}]

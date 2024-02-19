@@ -9,3 +9,153 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+enum Status {
+  PRESENT
+  ABSENT
+}
+
+enum Role {
+  MANAGER
+  ASSISTANT_MANAGER
+  DRIVER
+  OPERATOR
+  LABOUR
+  COOK
+  NOT_MENTIONED
+}
+
+enum ExpenseType {
+  DIESEL
+  MAINTENANCE
+  MANAGER_ACCOM
+  STAFF_CREDIT
+  RATION
+  LPG_GAS
+  MEDICAL
+  PAYROLL
+  MISC
+}
+
+enum PaymentStatus {
+  PAID
+  DUE
+}
+
+model Manager {
+  id         String     @id @default(uuid())
+  firstName  String
+  lastName   String
+  contact    String     @unique
+  email      String     @unique
+  role       String       @default("MANAGER")
+  vehicle    Vehicle?
+  employee   Employee[]
+  invoice    Invoice[]
+  joined     DateTime
+  terminated DateTime?  
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+}
+
+model Employee {
+  id         String       @id @default(uuid())
+  firstName  String
+  lastName   String
+  role       Role         @default(NOT_MENTIONED)
+  contact    String       @unique
+  email      String       @unique
+  manager    Manager      @relation(fields: [managerId], references: [id])
+  managerId  String
+  joined     DateTime
+  terminated DateTime?
+  invoice    Invoice[]
+  attendance Attendance[]
+  createdAt  DateTime     @default(now())
+  updatedAt  DateTime     @updatedAt
+}
+
+model Vehicle {
+  id         String    @id @default(uuid())
+  vehicleNum String    @unique
+  model      String
+  year       String
+  manager    Manager   @relation(fields: [managerId], references: [id])
+  managerId  String    @unique
+  invoice    Invoice[]
+  work       Work[]
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+}
+
+model Invoice {
+  id          String      @id @default(uuid())
+  expense     ExpenseType @default(MISC)
+  amount      Float
+  date        DateTime    @default(now())
+  status      String
+  employee    Employee?   @relation(fields: [employeeId], references: [id])
+  employeeId  String?
+  manager     Manager?    @relation(fields: [managerId], references: [id])
+  managerId   String?
+  vehicle     Vehicle?    @relation(fields: [vehicleId], references: [id])
+  vehicleId   String?
+  description String
+  imgUrl      String?
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @default(now()) @updatedAt()
+}
+
+model Work {
+  id             String        @id @default(uuid())
+  date           DateTime
+  location       String
+  depth          Float
+  casing7Inch    Int
+  casing6Inch    Int
+  casing5Inch    Int
+  msCasing       Int
+  srpm           Int
+  erpm           Int
+  hour           Float
+  rate           Float
+  loringRate     Float
+  step           Int
+  c7Rate         Float
+  c6Rate         Float
+  c5Rate         Float
+  mscRate        Float
+  billAmount     Float
+  status         PaymentStatus @default(DUE)
+  remarks        String?
+  transactionImg String?
+  Vehicle        Vehicle?      @relation(fields: [vehicleId], references: [id])
+  vehicleId      String?
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+}
+
+model Attendance {
+  id         String   @id @default(uuid())
+  date       DateTime
+  employee   Employee @relation(fields: [employeeId], references: [id])
+  employeeId String
+  status     Status   @default(ABSENT)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Payroll {
+  id          String        @id @default(uuid())
+  fromDate    DateTime
+  toDate      DateTime
+  presentDays Int
+  absentDays  Int
+  totalDays   Int
+  dailyWage   Float
+  deduction   Float
+  netSalary   Float
+  status      PaymentStatus @default(DUE)
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+}

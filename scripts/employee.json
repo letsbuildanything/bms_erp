@@ -1,0 +1,74 @@
+[{
+    "id": "8c25f2ef-7c43-45d5-a597-a650429c6eb3",
+    "firstName": "Mozelle",
+    "lastName": "Mc Gee",
+    "role": "NOT_MENTIONED",
+    "email": "mmcgee0@reference.com",
+    "joined": "2023-07-16T07:19:21Z",
+    "contact": "+62 152 901 9625",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "e22d4868-9e36-4890-a420-355fed9369f1",
+    "firstName": "Merrilee",
+    "lastName": "Hesbrook",
+    "role": "COOK",
+    "email": "mhesbrook1@gmpg.org",
+    "joined": "2024-01-05T13:57:43Z",
+    "contact": "+216 356 933 9405",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "0cd4abeb-6957-40e9-afa5-d78e7084d9de",
+    "firstName": "Jeanie",
+    "lastName": "Klemt",
+    "role": "LABOUR",
+    "email": "jklemt2@microsoft.com",
+    "joined": "2023-07-08T07:37:49Z",
+    "contact": "+7 681 260 2930",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "d6bd0e44-f428-42ee-b033-ba8f30fe079b",
+    "firstName": "Myron",
+    "lastName": "Bertenshaw",
+    "role": "OPERATOR",
+    "email": "mbertenshaw3@sogou.com",
+    "joined": "2023-10-11T05:50:21Z",
+    "contact": "+234 207 677 8197",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "871e9487-a7dc-4ef1-8b0a-015725bbb5a7",
+    "firstName": "Arleta",
+    "lastName": "Hellmer",
+    "role": "NOT_MENTIONED",
+    "email": "ahellmer4@paypal.com",
+    "joined": "2023-10-09T10:09:35Z",
+    "contact": "+371 336 399 7452",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "af900cd7-0a18-463e-ac35-cf73f11a2983",
+    "firstName": "Eachelle",
+    "lastName": "Parminter",
+    "role": "ASSISTANT_MANAGER",
+    "email": "eparminter5@flavors.me",
+    "joined": "2023-07-26T05:53:38Z",
+    "contact": "+86 545 886 6403",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "d86c6103-a4b1-4177-8d18-bee5e09c0cd7",
+    "firstName": "Germaine",
+    "lastName": "Gammage",
+    "role": "LABOUR",
+    "email": "ggammage6@storify.com",
+    "joined": "2023-12-21T07:18:13Z",
+    "contact": "+46 807 540 8629",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }, {
+    "id": "24081465-af8a-432f-8dd7-5353c7223935",
+    "firstName": "Sigfrid",
+    "lastName": "Webley",
+    "role": "NOT_MENTIONED",
+    "email": "swebley7@vkontakte.ru",
+    "joined": "2023-08-06T00:46:54Z",
+    "contact": "+216 306 394 3069",
+    "managerId": "9dd817e4-35e6-4843-a465-5056364cc556"
+  }]
+  

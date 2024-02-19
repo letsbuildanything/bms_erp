@@ -1,0 +1,78 @@
+// Invoice Schema
+import { z } from "zod";
+
+export const InvoiceSchema = z.object({
+  id: z.string().optional(),
+  expense: z.enum([
+    "DIESEL",
+    "MAINTENANCE",
+    "MANAGER_ACCOM",
+    "STAFF_CREDIT",
+    "RATION",
+    "LPG_GAS",
+    "MEDICAL",
+    "PAYROLL",
+    "MISC",
+  ]),
+  amount: z.coerce.number(),
+  date: z.date(),
+  status: z.string(),
+  employeeId: z.string().optional(),
+  managerId: z.string().optional(),
+  vehicleId: z.string().optional(),
+  description: z.string(),
+  imgUrl: z.string().optional(),
+  createdAt: z.date().optional(),
+  updatedAt: z.date().optional(),
+});
+
+// work schema
+export const WorkSchema = z.object({
+  id: z.string().optional(),
+  date: z.date(),
+  location: z.string(),
+  depth: z.coerce.number(),
+  casing7Inch: z.coerce.number(),
+  casing6Inch: z.coerce.number(),
+  casing5Inch: z.coerce.number(),
+  msCasing: z.coerce.number(),
+  srpm: z.coerce.number(),
+  erpm: z.coerce.number(),
+  hour: z.coerce.number(),
+  rate: z.coerce.number(),
+  loringRate: z.coerce.number(),
+  step: z.coerce.number(),
+  c7Rate: z.coerce.number(),
+  c6Rate: z.coerce.number(),
+  c5Rate: z.coerce.number(),
+  mscRate: z.coerce.number(),
+  billAmount: z.coerce.number(),
+  status: z.enum(["PAID", "DUE"]),
+  remarks: z.string(),
+  transactionImg: z.string().optional(),
+  vehicleId: z.string().optional(),
+  createdAt: z.date().optional(),
+  updateAt: z.date().optional(),
+});
+
+export const EmployeeSchema = z.object({
+  id: z.string().optional(),
+  firstName: z.string(),
+  lastName: z.string(),
+  role: z.enum([
+    "MANAGER",
+    "ASSISTANT_MANAGER",
+    "DRIVER",
+    "OPERATOR",
+    "LABOUR",
+    "COOK",
+    "NOT_MENTIONED",
+  ]),
+  contact: z.string(),
+  email: z.string(),
+  managerId: z.string(),
+  joined: z.date(),
+  terminated: z.date().optional(),
+  createdAt: z.date().optional(),
+  updateAt: z.date().optional(),
+});
